@@ -1,3 +1,4 @@
+```markdown
 # nandini-012
 
 Hi! 👋 I'm @nandini-012, Thanks for visiting my Github Corner! 🌟
@@ -14,6 +15,8 @@ Currently focused on building my MERN stack skills and sharing my projects with 
 ![React](https://img.shields.io/badge/React-pending-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Exploring Backend technologies:**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+```
