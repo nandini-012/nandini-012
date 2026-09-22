@@ -33,19 +33,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-> ⚠️ **Note:** Swap or add badges above to match your actual stack — I included common ones as placeholders. See [shields.io](https://shields.io) or [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for more badge options and language stat cards.
-
----
-
-### 🧭 Engineering Approach
-
-| Principle | Why it matters |
-|---|---|
-| **Understand before optimizing** | Premature optimization obscures intent |
-| **Measure, don't assume** | Data reveals what intuition misses |
-| **Design for change** | Good architecture adapts to new requirements |
-
 ---
 
 ### 🌱 Open Source
