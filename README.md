@@ -1,76 +1,60 @@
-# nandini-012
+<h1 align="center">Hi, I'm Nandini 👋</h1>
+<h3 align="center">AI/ML Engineer focused on intelligent systems and backend architecture</h3>
 
-**AI/ML Engineer** focused on intelligent systems and backend architecture
+<p align="center">
+  <em>Building systems that learn, reason, and scale.</em>
+</p>
 
-Building systems that learn, reason, and scale.
-
----
-
-## Current Focus
-
-**Building** — Reinforcement learning pipelines and distributed backend services  
-**Learning** — Advanced NLP architectures and systems design patterns  
-**Exploring** — Multi-agent systems and language model optimization
-
----
-
-## Technical Toolbox
-
-<details>
-<summary><strong>Languages</strong></summary>
-
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-</details>
-
-<details>
-<summary><strong>AI & Data</strong></summary>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-</details>
-
-<details>
-<summary><strong>Backend</strong></summary>
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-</details>
-
-<details>
-<summary><strong>Developer Tools</strong></summary>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Reinforcement%20Learning-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exploring-Multi--Agent%20Systems-orange?style=flat-square" />
+</p>
 
 ---
 
-## Engineering Approach
+### 🔭 Current Focus
 
-**Understand before optimizing.** — Premature optimization obscures intent.  
-**Measure, don't assume.** — Data reveals what intuition misses.  
-**Design for change.** — Good architecture adapts to new requirements.
-
----
-
-## Open Source
-
-Contributions focus on improving tools in ML infrastructure and backend systems. Interested in projects that solve real problems at scale and advance collective engineering knowledge.
+- 🏗️ **Building** — Reinforcement learning pipelines and distributed backend services
+- 📚 **Learning** — Advanced NLP architectures and systems design patterns
+- 🧭 **Exploring** — Multi-agent systems and language model optimization
 
 ---
 
-## Currently Exploring
+### 🧰 Technical Toolbox
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+> ⚠️ **Note:** Swap or add badges above to match your actual stack — I included common ones as placeholders. See [shields.io](https://shields.io) or [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for more badge options and language stat cards.
+
+---
+
+### 🧭 Engineering Approach
+
+| Principle | Why it matters |
+|---|---|
+| **Understand before optimizing** | Premature optimization obscures intent |
+| **Measure, don't assume** | Data reveals what intuition misses |
+| **Design for change** | Good architecture adapts to new requirements |
+
+---
+
+### 🌱 Open Source
+
+I contribute to tools in **ML infrastructure** and **backend systems**, with a focus on projects that solve real problems at scale and advance collective engineering knowledge.
+
+---
+
+### 📖 Currently Exploring
 
 - Transformer architectures and fine-tuning strategies
 - Distributed systems design patterns
@@ -79,8 +63,12 @@ Contributions focus on improving tools in ML infrastructure and backend systems.
 
 ---
 
-## Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandini-012&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandini-221619268)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nandinimya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nandini-012)
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
