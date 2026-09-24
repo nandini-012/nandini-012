@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="my-gif.gif" width="380" alt="my gif" />
+</p>
+
+<p align="center">
   🎓 Marwadi University &nbsp;|&nbsp; 📍 Rajkot, Gujarat &nbsp;|&nbsp; 📧 nandinimya@gmail.com
 </p>
 
